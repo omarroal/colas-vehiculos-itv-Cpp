@@ -1,4 +1,5 @@
 # control-vehiculos-itv-Cpp
+ESTRUCTURA DE DATOS
 COLAS - Programa para el control de vehículos para la ITV
 
 El siguiente programa se trata de un programa para el control de vehículos para la ITV. Colas.
